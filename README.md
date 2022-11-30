@@ -1,7 +1,7 @@
 # DBMS-Group-Project
 Final Project of DBMS 110 or Intro to Data Analytics
 
-The Goal of this project was to work with a team, use critical thinking, apply skills, and design a database from the scenerio given. 
+The Goal of this project was to work with a team, use critical thinking, apply skills, and design a database from the scenario given. 
 
 FINAL GRADE: 77/85 
 
